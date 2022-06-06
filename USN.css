@@ -1,0 +1,304 @@
+body {
+    
+    
+    background-color: #FAFAF6;
+    font-size: 19px;
+    font-family: Arial;
+}
+
+
+
+h1 {
+    
+    font-family: Oswald;
+font-size: 110px;
+    
+    
+}
+
+
+.col-xs-2 h3 {
+   
+   width: 300px;
+   
+color: DarkCyan;
+   position: absolute;
+   
+   top: 45px;
+   
+   left: 340px;
+   float: right;
+}
+
+
+.col-xs-4 p {
+    
+    font-family: Oswald;
+    
+    font-size: 13px;
+    
+    color: #f8b500;
+    
+}
+
+.col-xs-4 #Copyright {
+    
+    width: 20px !important;
+    
+    
+}
+
+
+.footer h4 {
+    
+
+
+    font-size: 15px;
+}
+
+
+h5 {
+    
+    float: bottom;
+    margin: 30px;
+    
+}
+
+
+
+
+table {
+    
+
+text-align: center;
+
+
+font-family: Verdana;
+
+
+table align: center;
+
+
+margin: 15px;
+
+
+}
+
+
+.Title-Name {
+    
+    font-size: 50px;
+    color: #f8b500;
+}
+
+
+.Content_soccer {
+    
+    display: block;
+    color: #FF5DA2;
+    float: top;
+    border: 1px solid LightGray;
+    padding: 7px;
+}
+
+
+
+#Portugal_Spain {
+    
+    width: 900px;
+}
+
+
+#Soccer_Pic { 
+     
+     filter: brightness(1.5);
+     display: block;
+    float: right;
+    width: 780px;
+    margin: 20px;
+}
+
+
+ #Diagram  {
+    
+    filter:hue-rotate(45deg);
+    display: block;
+    float: right;
+    width: 515px;
+   margin: 20px;
+    
+}
+
+
+#Past_Transfers {
+    
+   
+    
+    width: 330px;
+    
+    height: 400px;
+
+   align: middle;
+   
+   position: absolute;
+    
+    left: 330px;
+    
+    top: 160px; 
+    
+}
+
+
+
+.Titles {
+     font-family: Oswald;
+    margin: 48px;
+    font-size: 34px;
+    color: DarkCyan;
+    
+}
+
+
+.Competitions {
+    
+    text-align: left;
+    color: #FF5DA2;
+}
+
+
+#Logos img {
+    
+    filter: saturate(0.9);
+    filter: sepia(0.1);
+    width: 140px;
+    height: 110px;
+    
+}
+
+
+
+#Best_Clubs li {
+    text-align: center;
+    text-size: 27px;
+    border-bottom: 1px solid black;
+    padding:10px;
+}
+
+
+
+ul#Best_Clubs  {
+    
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    width: 360px;
+    background-color: LightGreen;
+
+    display:block;
+     
+    list-style-type: none;
+    
+   
+}
+
+
+ul#Best_Clubs a:link {
+    
+    color: purple;
+}
+
+
+
+
+ul#Best_Clubs a:active {
+    
+    
+    color: red;
+}
+
+
+
+#Ad {
+    
+    color: DarkCyan;
+    
+    
+    font-size: 32px;
+    
+}
+
+
+
+
+    
+    
+}
+
+#Current_News h2{
+    
+    text-align: left;
+    font-size: 36px;
+   padding: 1px;
+    
+}
+
+
+
+#Current_News {
+
+    padding: 3px;
+    clear: both;
+    
+    
+}
+
+
+
+.img-thumbnail {
+    
+    width: 400px;
+}
+
+
+
+.Images_Live:active {
+    
+    
+  width: 700px;
+  
+  filter: drop-shadow(10px 16px 14px lightGray);
+  
+ 
+}
+
+
+.Images_Live {
+    
+    display: block;
+    
+    float: middle;
+    
+position: absolute;
+    
+    left: 25px;
+    
+    width: 460px;
+    
+    height: 600px;
+    
+    margin: 12px auto;
+}
+
+
+#Soccer_Icon {
+    
+    height: 250px;
+    
+    margin-right: auto;
+    
+    margin-left: auto;
+    
+    
+    display: block;
+    
+}
